@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e91e091a699a35e",
+        "id": "7c08176155b24f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "8617fa9d0336cb60",
+            "id": "e79c88b26ad22a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "99-templates/Project Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Project Template"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "99-templates/Project Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "99-templates/Project Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "99-templates/Project Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,6 +188,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "8617fa9d0336cb60",
-  "lastOpenFiles": []
+  "active": "e79c88b26ad22a86",
+  "lastOpenFiles": [
+    "99-templates/Weekly Review Template.md",
+    "99-templates/Project Template.md",
+    "99-templates/Daily Learning Template.md",
+    "99-templates/Learning Note Template.md",
+    "00-dashboard/Home.md",
+    "Base.base",
+    "99-templates",
+    "06-daily-notes",
+    "00-dashboard",
+    "README.md",
+    "My Canvas 1.canvas",
+    "05-weekly-progress",
+    "04-learning-resources",
+    "03-projects",
+    "02-ai-engineering",
+    "01-job-preparation"
+  ]
 }
